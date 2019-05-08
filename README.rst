@@ -12,7 +12,7 @@ http://pylaplace.readthedocs.org
 Changelog
 =========
 
-Version 0.0.3
+Version 0.0.5
 --------------
 
 * Rename main file.
