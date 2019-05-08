@@ -65,7 +65,7 @@ approximate). These can be selected at creation by entering::
 Class reference
 =========================
 
-.. automodule:: pylaplace.laplace
+.. automodule:: pylaplace.pylaplace
 
 .. autoclass:: LaplaceCoefficient
       :members:
